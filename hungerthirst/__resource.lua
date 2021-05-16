@@ -23,7 +23,7 @@ files {
 
 -- Client Scripts
 client_scripts {
-    'client.lua',
+    'client/client.lua',
 }
 
 -- Server Scripts
